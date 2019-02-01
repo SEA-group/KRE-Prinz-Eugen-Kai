@@ -1,0 +1,17 @@
+<GD009_Target_Giver_skinned.mfm>
+	<fx>	shaders/std_effects/PBS_ship_skinned.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/director/GD009_Target_Giver_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/director/GD009_Target_Giver_mg.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/director/default_ao.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/director/GD009_Target_Giver_n.dds	</Texture>
+	</property>
+</GD009_Target_Giver_skinned.mfm>

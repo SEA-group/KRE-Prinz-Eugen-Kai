@@ -1,0 +1,14 @@
+<C008_Grid_5_alpha.mfm>
+	<fx>	shaders/std_effects/grid_alpha.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/ship/C008_Grid_5_alpha_a.dds	</Texture>
+	</property>
+	<property>	doubleSided
+		<Bool>	true	</Bool>
+	</property>
+	<property>	alphaReference
+		<Int>	100	</Int>
+	</property>
+</C008_Grid_5_alpha.mfm>

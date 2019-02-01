@@ -1,0 +1,17 @@
+<GD033_Zielsaule_C26.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/director/GD033_Zielsaule_C26_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/director/GD033_Zielsaule_C26_mg.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/director/default_ao.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/director/GD033_Zielsaule_C26_a.dds	</Texture>
+	</property>
+</GD033_Zielsaule_C26.mfm>

@@ -1,1 +1,9 @@
-<GGM065_203mm_C34_lod1.model><exporter>1.6</exporter><parent>PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/gun/GGM065_203mm_C34_lod2</parent><extent>10.0000</extent><materialNames /><castsShadow>true</castsShadow><nodefullVisual>PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/gun/GGM065_203mm_C34_lod1</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></GGM065_203mm_C34_lod1.model>
+<GGM065_203mm_C34_lod1.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/gun/GGM065_203mm_C34_lod2	</parent>
+	<extent>	10.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/gun/GGM065_203mm_C34_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GGM065_203mm_C34_lod1.model>
