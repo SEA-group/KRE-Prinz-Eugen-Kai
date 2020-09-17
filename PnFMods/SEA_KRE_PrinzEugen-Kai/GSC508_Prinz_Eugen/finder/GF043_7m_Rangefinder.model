@@ -1,7 +1,7 @@
 <GF043_7m_Rangefinder.model>
 	<castsShadow>	false	</castsShadow>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/finder/GF043_7m_Rangefinder_lod1	</parent>
+	<parent>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/finder/lods/GF043_7m_Rangefinder_lod1	</parent>
 	<nodefullVisual>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/finder/GF043_7m_Rangefinder	</nodefullVisual>
 	<extent>	5.0000	</extent>
 	<materialNames />

@@ -3,7 +3,7 @@
 	<materialNames />
 	<castsShadow>	true	</castsShadow>
 	<extent>	5.000000	</extent>
-	<parent>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/catapult/GC004_Catapult_4_lod1	</parent>
+	<parent>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/catapult/lods/GC004_Catapult_4_lod1	</parent>
 	<nodefullVisual>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/catapult/GC004_Catapult_4	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </GC004_Catapult_4.model>

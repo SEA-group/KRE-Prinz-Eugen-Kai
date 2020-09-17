@@ -1,9 +1,0 @@
-<GGT084_533mm_Torpedo_Tubes_Triple_lod2.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/gun/GGT084_533mm_Torpedo_Tubes_Triple_lod3	</parent>
-	<extent>	20.0000	</extent>
-	<materialNames />
-	<castsShadow>	true	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/gun/GGT084_533mm_Torpedo_Tubes_Triple_lod2	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</GGT084_533mm_Torpedo_Tubes_Triple_lod2.model>

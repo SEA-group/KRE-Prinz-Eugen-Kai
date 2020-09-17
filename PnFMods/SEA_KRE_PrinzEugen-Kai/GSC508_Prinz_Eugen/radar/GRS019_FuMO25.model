@@ -5,7 +5,7 @@
 		<filler>	true	</filler>
 	</action>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/radar/GRS019_FuMO25_lod1	</parent>
+	<parent>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/radar/lods/GRS019_FuMO25_lod1	</parent>
 	<extent>	3.0000	</extent>
 	<materialNames />
 	<animation>

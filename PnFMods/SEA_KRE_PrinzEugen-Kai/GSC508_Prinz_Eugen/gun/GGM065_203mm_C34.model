@@ -1,6 +1,6 @@
 <GGM065_203mm_C34.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/gun/GGM065_203mm_C34_lod1	</parent>
+	<parent>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/gun/lods/GGM065_203mm_C34_lod1	</parent>
 	<extent>	6.0000	</extent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>
