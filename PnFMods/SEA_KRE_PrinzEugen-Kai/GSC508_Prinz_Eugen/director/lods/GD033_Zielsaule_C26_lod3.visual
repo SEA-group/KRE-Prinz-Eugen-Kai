@@ -29,7 +29,7 @@
 			<primitive>	GD033_Zielsaule_C26_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Misc	</identifier>
+					<identifier>	SHIPMATX_PBS_Misc	</identifier>
 					<mfm>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/director/GD033_Zielsaule_C26.mfm	</mfm>
 				</material>
 			</primitiveGroup>

@@ -66,7 +66,7 @@
 			<primitive>	director_root_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_director	</identifier>
+					<identifier>	SHIPMATX_PBS_director	</identifier>
 					<mfm>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/director/GD009_Target_Giver_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
