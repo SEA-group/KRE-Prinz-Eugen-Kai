@@ -106,6 +106,60 @@
 				</transform>
 			</node>
 			<node>
+				<identifier>	HP_GGB_1	</identifier>
+				<transform>
+					<row0>	-0.2250 0.0000 0.9744 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.9744 0.0000 -0.2250 0.0000	</row2>
+					<row3>	-0.2559 0.3249 -6.5637 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GGB_2	</identifier>
+				<transform>
+					<row0>	-0.2250 0.0000 -0.9744 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.9744 0.0000 -0.2250 0.0000	</row2>
+					<row3>	0.2559 0.3249 -6.5637 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GGB_3	</identifier>
+				<transform>
+					<row0>	-0.2756 0.0000 0.9613 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.9613 0.0000 -0.2756 0.0000	</row2>
+					<row3>	-0.2374 0.3249 -6.6326 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GGB_4	</identifier>
+				<transform>
+					<row0>	-0.2756 0.0000 -0.9613 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.9613 0.0000 -0.2756 0.0000	</row2>
+					<row3>	0.2374 0.3249 -6.6326 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GGB_5	</identifier>
+				<transform>
+					<row0>	-0.2756 0.0000 0.9613 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.9613 0.0000 -0.2756 0.0000	</row2>
+					<row3>	-0.2203 0.3249 -6.6922 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_GGB_6	</identifier>
+				<transform>
+					<row0>	-0.2756 0.0000 -0.9613 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.9613 0.0000 -0.2756 0.0000	</row2>
+					<row3>	0.2203 0.3249 -6.6922 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	HP_GGM_4	</identifier>
 				<transform>
 					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
