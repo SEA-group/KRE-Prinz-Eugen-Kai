@@ -79,21 +79,57 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_CTC1196	</identifier>
+				<identifier>	MP_CM096_Platform	</identifier>
 				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	-0.0003 0.4595 6.6665 1.0000	</row3>
+					<row0>	0.9744 -0.0673 -0.2143 0.0000	</row0>
+					<row1>	-0.0458 -0.9935 0.1039 0.0000	</row1>
+					<row2>	-0.2199 -0.0914 -0.9712 0.0000	</row2>
+					<row3>	-0.1259 0.4595 6.6665 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_GTC0635	</identifier>
+				<identifier>	MP_CM096_Platform_INDEX_1	</identifier>
 				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row0>	-0.9760 -0.0630 -0.2085 0.0000	</row0>
+					<row1>	0.0427 -0.9940 0.1004 0.0000	</row1>
+					<row2>	-0.2136 0.0891 0.9729 0.0000	</row2>
+					<row3>	0.1252 0.4594 6.6664 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GM154_Crest_Prinz_Eugen	</identifier>
+				<transform>
+					<row0>	0.2127 -0.0003 0.9771 0.0000	</row0>
+					<row1>	-0.3243 0.9433 0.0709 0.0000	</row1>
+					<row2>	-0.9217 -0.3320 0.2006 0.0000	</row2>
+					<row3>	-0.0499 0.2756 6.8066 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GM154_Crest_Prinz_Eugen_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.2127 0.0003 -0.9771 0.0000	</row0>
+					<row1>	0.3243 0.9433 0.0709 0.0000	</row1>
+					<row2>	0.9217 -0.3320 0.2006 0.0000	</row2>
+					<row3>	0.0499 0.2756 6.8066 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GM700_AmmoBox	</identifier>
+				<transform>
+					<row0>	0.4550 0.0000 0.8905 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0002 0.3285 4.4664 1.0000	</row3>
+					<row2>	-0.8905 0.0000 0.4550 0.0000	</row2>
+					<row3>	0.2239 0.3285 4.4667 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GM700_AmmoBox_INDEX_1	</identifier>
+				<transform>
+					<row0>	-0.4580 0.0000 0.8889 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.8889 0.0000 -0.4580 0.0000	</row2>
+					<row3>	-0.2235 0.3285 4.4662 1.0000	</row3>
 				</transform>
 			</node>
 		</node>
