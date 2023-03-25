@@ -29,7 +29,7 @@
 			<primitive>	Flak_ZAG_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMATX_PBS_director	</identifier>
+					<identifier>	SHIPMATX_PBSX_director	</identifier>
 					<mfm>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/director/GD007_Flak_ZAG.mfm	</mfm>
 				</material>
 			</primitiveGroup>

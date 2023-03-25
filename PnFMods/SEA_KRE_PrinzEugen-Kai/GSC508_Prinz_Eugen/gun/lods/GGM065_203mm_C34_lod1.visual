@@ -130,7 +130,7 @@
 			<primitive>	Turret_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMATX_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBSX_GunX	</identifier>
 					<mfm>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/gun/GGM065_203mm_C34_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

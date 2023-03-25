@@ -61,7 +61,7 @@
 			<primitive>	GF044_7m_Rangefinder_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMATX_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBSX_Director	</identifier>
 					<mfm>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/finder/GF044_7m_Rangefinder.mfm	</mfm>
 				</material>
 			</primitiveGroup>

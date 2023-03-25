@@ -66,7 +66,7 @@
 			<primitive>	GRS019_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMATX_PBS_Misc	</identifier>
+					<identifier>	SHIPMATX_PBSX_Misc	</identifier>
 					<mfm>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/radar/GRS019_FuMO25_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

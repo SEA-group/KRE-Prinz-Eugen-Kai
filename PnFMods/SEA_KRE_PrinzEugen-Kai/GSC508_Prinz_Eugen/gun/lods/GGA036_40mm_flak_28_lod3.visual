@@ -47,7 +47,7 @@
 			<primitive>	Turret_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMATX_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBSX_GunX	</identifier>
 					<mfm>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/gun/GGA036_40mm_flak_28.mfm	</mfm>
 				</material>
 			</primitiveGroup>
