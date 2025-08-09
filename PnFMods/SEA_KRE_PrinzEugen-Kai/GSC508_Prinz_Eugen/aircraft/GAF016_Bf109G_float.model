@@ -1,9 +1,6 @@
 <GAF016_Bf109G_float.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/aircraft/lods/GAF016_Bf109G_float_lod1	</parent>
-	<extent>	5.0000	</extent>
-	<materialNames />
-	<castsShadow>	true	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/aircraft/GAF016_Bf109G_float	</nodefullVisual>
+	<visual>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/aircraft/GAF016_Bf109G_float.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </GAF016_Bf109G_float.model>

@@ -1,56 +1,124 @@
 <GGA042_20mm_Flack_38_quad.visual>
+	<skeleton>
+		<node>
+			<identifier>	Scene Root	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	GGA042_20mm_Flack_38_quad	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	HP_gunFire1	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 0.707107 -0.707107 0.000000	</row1>
+						<row2>	0.000000 0.707107 0.707107 0.000000	</row2>
+						<row3>	0.000000 0.147032 0.073685 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_gunFireEffect	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 0.707107 -0.707107 0.000000	</row1>
+						<row2>	0.000000 0.707107 0.707107 0.000000	</row2>
+						<row3>	0.000000 0.147032 0.073685 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+		</node>
+	</skeleton>
+	<properties>
+		<underwaterModel>	false	</underwaterModel>
+		<abovewaterModel>	true	</abovewaterModel>
+	</properties>
 	<boundingBox>
 		<min>	-0.082399 -0.000000 -0.092495	</min>
 		<max>	0.082682 0.155496 0.082748	</max>
 	</boundingBox>
-	<node>
-		<identifier>	Scene Root	</identifier>
-		<transform>
-			<row0>	1.000000 0.000000 0.000000	</row0>
-			<row1>	0.000000 1.000000 0.000000	</row1>
-			<row2>	0.000000 0.000000 1.000000	</row2>
-			<row3>	0.000000 0.000000 0.000000	</row3>
-		</transform>
-		<node>
-			<identifier>	GGA042_20mm_Flack_38_quad	</identifier>
-			<transform>
-				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-			</transform>
-			<node>
-				<identifier>	HP_gunFire1	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.707107 -0.707107 0.000000	</row1>
-					<row2>	0.000000 0.707107 0.707107 0.000000	</row2>
-					<row3>	0.000000 0.147032 0.073685 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_gunFireEffect	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.707107 -0.707107 0.000000	</row1>
-					<row2>	0.000000 0.707107 0.707107 0.000000	</row2>
-					<row3>	0.000000 0.147032 0.073685 1.000000	</row3>
-				</transform>
-			</node>
-		</node>
-	</node>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	GGA042_20mm_Flack_38_quad	</node>
-		<geometry>
-			<vertices>	GGA042_20mm_Flack_38_quadShape.vertices	</vertices>
-			<primitive>	GGA042_20mm_Flack_38_quadShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBSX_GunX	</identifier>
-					<mfm>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/gun/GGA042_20mm_Flack_38_quad.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
+	<renderSets>
+		<renderSet>
+			<name>	GGA042_20mm_Flack_38_quadShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	GGA042_20mm_Flack_38_quad	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBSX_GunX	</identifier>
+				<mfm>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/gun/GGA042_20mm_Flack_38_quad.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	GGA042_20mm_Flack_38_quad_lodShape1	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	GGA042_20mm_Flack_38_quad	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBSX_GunX	</identifier>
+				<mfm>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/gun/GGA042_20mm_Flack_38_quad.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	GGA042_20mm_Flack_38_quad_lodShape2	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	GGA042_20mm_Flack_38_quad	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBSX_GunX	</identifier>
+				<mfm>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/gun/GGA042_20mm_Flack_38_quad.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	GGA042_20mm_Flack_38_quad_lodShape3	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	GGA042_20mm_Flack_38_quad	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBSX_GunX	</identifier>
+				<mfm>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/gun/GGA042_20mm_Flack_38_quad.mfm	</mfm>
+			</material>
+		</renderSet>
+	</renderSets>
+	<lods>
+		<lod>
+			<extent>	3.000000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	GGA042_20mm_Flack_38_quadShape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	6.000000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	GGA042_20mm_Flack_38_quad_lodShape1	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	14.000000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	GGA042_20mm_Flack_38_quad_lodShape2	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	50.000000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	GGA042_20mm_Flack_38_quad_lodShape3	</renderSet>
+			</renderSets>
+		</lod>
+	</lods>
 </GGA042_20mm_Flack_38_quad.visual>

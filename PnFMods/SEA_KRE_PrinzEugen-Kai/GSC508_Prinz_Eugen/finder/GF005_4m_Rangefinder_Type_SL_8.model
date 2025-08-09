@@ -1,9 +1,6 @@
 <GF005_4m_Rangefinder_Type_SL_8.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/finder/lods/GF005_4m_Rangefinder_Type_SL_8_lod1	</parent>
-	<extent>	8.0000	</extent>
-	<materialNames />
-	<castsShadow>	false	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/finder/GF005_4m_Rangefinder_Type_SL_8	</nodefullVisual>
+	<visual>	PnFMods/SEA_KRE_PrinzEugen-Kai/GSC508_Prinz_Eugen/finder/GF005_4m_Rangefinder_Type_SL_8.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </GF005_4m_Rangefinder_Type_SL_8.model>
